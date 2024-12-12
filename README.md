@@ -1,4 +1,4 @@
-## Examen - RA6: Creació i Gestió d'un Projecte Web amb Git i Desplegament en Vercel
+## Examen - RA6: Creació i Gestió d'un Projecte Web amb Git i Desplegament en Vercel | Agustí López Pla-Giribert
 
 **1. Comprovar la versió instal·lada de Git.**
 ![Imatge1](img/img1.png)
@@ -26,5 +26,4 @@ Per veure que he configurat correctament el nom i email, puc mirar als apartats 
 
 [Enllaç del projecte publicat a Vercel](https://lopez-pla-giribert-examen2425.vercel.app/)
 
-
-*Aquest projecte forma part de l'examen de M08*
+*Aquest projecte forma part de l'examen de l'assignatura de Desplegament d'Aplicacions Web del CFGS DAWe*
