@@ -5,7 +5,7 @@
 
 **2. Mostra la configuració actual per verificar-ho. Explica com veig que he configurat correctament el email i el nom.**
 ![Imatge1](img/img2.png)
-Per veure que he configurat correctament el nom i email, puc mirar als apartats "user.name" i "user.email" i si allà em surten el meu nom i email és que esta ebn configurat. També podria accedir a `git config --global -e` i allà em sortira la mateixa informació a l'apartat `[user]`.
+Per veure que he configurat correctament el nom i email, puc mirar als apartats "user.name" i "user.email" i si allà em surten el meu nom i email és que esta ben configurat. També podria accedir a `git config --global -e` i allà em sortira la mateixa informació a l'apartat `[user]`, i en cas de no haver-ho configurat sortiria buit.
 
 **3. Utilitza un patró d'expressió regular per afegir tots els fitxers .html i .css.**
 ![Imatge3](img/img3.png)
